@@ -63,7 +63,6 @@ Sales go vertical between 8 AM and 10 AM, but then fall off a cliff. This create
 Coffee and Tea bring in over **59% of all revenue**. Bakery is the next best thing, but its sales volume is tiny in comparison. Translation: people are buying drinks, but not food.
 
   * **Why it matters**: Our cross-selling is weak. The fastest path to higher revenue is "attaching" a pastry to an existing coffee order to boost the average ticket size.
-  * **The Chart**: A **Bar Chart** of revenue by category instantly showed which products were our cash cows.
 
 <img width="482" height="298" alt="revenue by hour" src="https://github.com/Naufaliffa/data-portfolio-projects/blob/main/projects/02-coffe-shop-sales-analysis/images/revenue%20by%20day.png" />
 
@@ -72,7 +71,6 @@ Coffee and Tea bring in over **59% of all revenue**. Bakery is the next best thi
 Revenue is solid and predictable from Monday to Friday, but there's a clear dip on Saturday and Sunday.
 
   * **Why it matters**: Our current setup is perfect for the 9-to-5 worker. We need a different playbook to attract the weekend crowd (families, friend groups, etc.).
-  * **The Chart**: A simple **Bar Chart** comparing daily revenue made the weekend slowdown obvious.
 
 -----
 
